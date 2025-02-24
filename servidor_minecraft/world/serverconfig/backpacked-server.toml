@@ -7,10 +7,10 @@
 	pickpocketMaxRangeAngle = 80.0
 	#When picking up a backpack (with items inside) off the ground, the item will automatically equip. Having this enabled may not be ideal for multiplayer servers.
 	autoEquipBackpackOnPickup = false
-	#Allows every player to use any backpack cosmetic variant without needing to complete the challenges. Side note, any progress to a challenge will not be tracked while enabled.
-	unlockAllBackpacks = false
 	#If enabled, prevents backpacks from being customised. This will remove the customise button from the backpack inventory
 	disableCustomisation = false
+	#Allows every player to use any backpack cosmetic variant without needing to complete the challenges. Side note, any progress to a challenge will not be tracked while enabled.
+	unlockAllBackpacks = false
 	#The maximum reach distance of a player to interact with another player's backpack.
 	pickpocketDistance = 2.0
 	#Stops players from removing the backpack if it's not empty. This prevents players from carrying multiple backpacks.
